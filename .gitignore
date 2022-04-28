@@ -1,0 +1,26 @@
+# frontend
+# dependencies
+/todo-list/node_modules
+/todo-list/.pnp
+/todo-list.pnp.js
+
+# testing
+/todo-list/coverage
+
+# production
+/todo-list/build
+
+# misc
+/todo-list/.DS_Store
+/todo-list/.env.local
+/todo-list/.env.development.local
+/todo-list/.env.test.local
+/todo-list/.env.production.local
+
+/todo-list/npm-debug.log*
+/todo-list/yarn-debug.log*
+/todo-list/yarn-error.log*
+
+# backend
+/backend/env
+/backend/myServer/db.sqlite3
